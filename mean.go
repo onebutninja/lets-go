@@ -1,0 +1,23 @@
+// Calculate the mean of two numbers
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+/* 
+	var x float64
+	var y float64
+*/
+	x, y := 1.0, 2.0
+	z:= 3
+
+	fmt.Printf("x=%v, type of %T\n", x, x)
+	fmt.Printf("y=%v, type of %T\n", y, y)
+
+	mean := (x + y) / 2.0
+	fmt.Printf("result: %v, type of %T\n", mean, mean)
+	fmt.Printf("z: %v, type of %T\n", z, z)
+
+}
