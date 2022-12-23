@@ -1,0 +1,1 @@
+A trivial intro to Go language.
