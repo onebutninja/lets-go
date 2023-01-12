@@ -1,0 +1,1 @@
+This is a following-along repo to the linkkedin learning Go course.
